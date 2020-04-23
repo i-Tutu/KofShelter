@@ -1,0 +1,127 @@
+/*Css*/
+
+body{
+  background-color: #f7f7f7;
+}
+
+  /*Navbar*/
+.navbar{
+	border-bottom: 2px solid #FFC300; /*E6E6FA*/
+  background-color: #34495e;
+}
+
+.logo{
+   font-family: Long Shot;
+   font-size: 30px;
+   color: #FFC300;
+
+}
+
+.logo:hover{
+    color: #FFC300;
+}
+
+.itemright{
+	margin-right: 50px;
+}
+ 
+.nav-link{
+  color: #FFC300;
+} 
+
+.nav-link:hover{
+  color: #D4A404;
+}
+
+
+/*Search*/
+.btn-nav{
+      color: #34495e;
+      background-color: #FFC300;
+}
+
+.btn-other{
+      color: #34495e;
+      background-color: #FFC300;
+      border: 3px solid #D4A404;
+}
+
+.navbar form#search {  
+	float: right; 
+	padding: 0.5em;
+	 
+}
+
+.navbar form#search .input-group .form-control {   
+ border-radius: 0.25em; 
+}
+ /*Search end*/
+
+   /*Navbar End*/
+
+   /*Carousal Slider*/
+.carousel-inner{
+	max-height: 400px;
+}
+   /*Carousal Slider end*/
+
+      /*Display image */
+.card-img-top{
+  height: 200px;
+  width: 300px;
+}
+/*End of Display image*/
+
+.next{
+  color: #34495e; 
+}
+.next:hover{
+    color: #FFC300;
+    background-color: #34495e; 
+}
+
+  /*Footer*/
+.page-footer{
+	background-color: #34495e;
+}
+
+.color{
+  color: #FFC300;
+}
+
+.coloreasy{
+  color: #fff;
+}
+
+.list-unstyled a{
+  color: #fff;
+}
+
+.list-unstyled a:hover{
+  text-decoration: none;
+  color: #E0DBC9;
+}
+
+.fa-heart{
+  color: red;
+}
+
+.footer-copyright{
+  color: #FFC300; 
+}
+
+.footer-other{
+  color: #34495e;
+  } 
+
+/*Footer end*/
+
+/*Index link More Info*/
+.infolink {
+  text-decoration: none;
+}
+.infolink:hover {
+  color: #34495e;
+  text-decoration: none;
+}
+/*End of Index link More Info*/
